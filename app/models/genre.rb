@@ -18,4 +18,5 @@ class Genre < ActiveRecord::Base
       artist.name 
     end
   end
+  
 end
